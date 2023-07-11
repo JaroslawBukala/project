@@ -1,0 +1,10 @@
+mutation($name: String!, $genre:String!, $creatorId: ID!) {
+    addBook(name:$name, genre:$genre, creatorId: $creatorId) {
+    name,
+    genre
+   
+    
+}
+  }
+
+

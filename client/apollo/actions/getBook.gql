@@ -1,0 +1,16 @@
+
+
+query($name: String){
+         getBook(name: $name){
+    name
+    genre
+    createdBy {
+      name
+      age
+    }
+}
+}
+
+
+
+

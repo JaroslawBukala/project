@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Auth-profile",
+    "path": "/Auth/profile",
+    "component": "C:\\\\project\\\\client\\\\pages\\\\Auth\\\\profile.vue",
+    "chunkName": "pages/Auth/profile"
+  },
+  {
+    "name": "Auth-Signin",
+    "path": "/Auth/Signin",
+    "component": "C:\\\\project\\\\client\\\\pages\\\\Auth\\\\Signin.vue",
+    "chunkName": "pages/Auth/Signin"
+  },
+  {
+    "name": "Auth-Signup",
+    "path": "/Auth/Signup",
+    "component": "C:\\\\project\\\\client\\\\pages\\\\Auth\\\\Signup.vue",
+    "chunkName": "pages/Auth/Signup"
+  },
+  {
+    "name": "Posts-addPost",
+    "path": "/Posts/addPost",
+    "component": "C:\\\\project\\\\client\\\\pages\\\\Posts\\\\addPost.vue",
+    "chunkName": "pages/Posts/addPost"
+  },
+  {
+    "name": "Posts-posts",
+    "path": "/Posts/posts",
+    "component": "C:\\\\project\\\\client\\\\pages\\\\Posts\\\\posts.vue",
+    "chunkName": "pages/Posts/posts"
+  },
+  {
+    "name": "Posts-postsPage",
+    "path": "/Posts/postsPage",
+    "component": "C:\\\\project\\\\client\\\\pages\\\\Posts\\\\postsPage.vue",
+    "chunkName": "pages/Posts/postsPage"
+  },
+  {
+    "name": "albums-id",
+    "path": "/albums/:id?",
+    "component": "C:\\\\project\\\\client\\\\pages\\\\albums\\\\_id.vue",
+    "chunkName": "pages/albums/_id"
+  },
+  {
+    "name": "books-id",
+    "path": "/books/:id?",
+    "component": "C:\\\\project\\\\client\\\\pages\\\\books\\\\_id.vue",
+    "chunkName": "pages/books/_id"
+  },
+  {
+    "name": "Posts-postId",
+    "path": "/Posts/:postId?",
+    "component": "C:\\\\project\\\\client\\\\pages\\\\Posts\\\\_postId.vue",
+    "chunkName": "pages/Posts/_postId"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\project\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

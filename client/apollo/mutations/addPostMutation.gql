@@ -1,0 +1,12 @@
+mutation($title: String!, $imageUrl:String!, $categories: [String]!, $likes: Int!, $description: String!, $creatorId: ID!) {
+    addPost(title:$title, imageUrl:$imageUrl, categories:$categories, likes:$likes, description:$description, creatorId:$creatorId) {
+    _id
+    likes
+    description
+    imageUrl
+    title
+    categories
+    
+
+    }
+}

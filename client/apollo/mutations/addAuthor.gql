@@ -1,0 +1,16 @@
+
+mutation($name:String!,
+        $age:Int!, 
+        $_id: ID!)
+ {
+   addAuthor(
+              name:$name,
+              age: $age,
+              _id: $_id
+            ) {
+           _id         
+           name
+           age
+    
+ }
+ }

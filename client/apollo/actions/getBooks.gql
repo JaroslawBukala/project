@@ -1,0 +1,15 @@
+{
+  getBooks {
+                      _id
+                      name,
+                      genre
+                     
+                      
+    createdBy {
+      _id
+      name
+      age
+    }
+
+ }
+}

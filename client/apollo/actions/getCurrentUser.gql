@@ -1,0 +1,9 @@
+{
+  getCurrentUser {
+                      _id
+                      username
+                      email
+                      
+ }
+}
+

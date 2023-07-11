@@ -1,0 +1,7 @@
+{
+  getAuthors {
+                      name
+                      age
+                      _id
+ }
+}
